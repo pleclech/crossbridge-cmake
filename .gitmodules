@@ -1,0 +1,3 @@
+[submodule "src/crossbridge"]
+	path = src/crossbridge
+	url = https://github.com/pleclech/crossbridge.git
